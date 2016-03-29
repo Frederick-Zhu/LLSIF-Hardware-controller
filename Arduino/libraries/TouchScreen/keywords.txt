@@ -1,0 +1,26 @@
+#######################################
+# Syntax Coloring Map For Keyboard
+#######################################
+
+#######################################
+# Datatypes (KEYWORD1)
+#######################################
+
+TouchScreen	KEYWORD1
+
+#######################################
+# Methods and Functions (KEYWORD2)
+#######################################
+
+begin	KEYWORD2
+end	KEYWORD2
+TouchDownA	KEYWORD2
+TouchDownB	KEYWORD2
+TouchDownAll	KEYWORD2
+TouchUpA	KEYWORD2
+TouchUpB	KEYWORD2
+TouchUpAll	KEYWORD2
+
+#######################################
+# Constants (LITERAL1)
+#######################################
